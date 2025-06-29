@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/syeda-kashifa-1760201utm_source=share&utm_compaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda kashifa" height="30" width="40" /></a>
+<a    href="https://www.linkedin.com/in/syedakashifa-176085201?utm_source=share&utm_compaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda kashifa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kash-fa1728?igsh=MWZkN2xINGtnbnMweQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kash_fa1728" height="30" width="40" /></a>
 </p>
 
